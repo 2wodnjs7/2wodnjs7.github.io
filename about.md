@@ -7,23 +7,14 @@ title: About Me
   <i>국민대학교 소프트웨어학부 21학번 이재원</i>
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+안녕하세요!
+이 블로그는 개발자로서 갖춰야 할 역량을 키우기 위해 해온 노력들을 정리한 공간입니다.
+그 노력은 cs와 관련된 것일 수도 있고, 아닐 수도 있습니다.
 
-There are currently two themes built on Poole:
+다음 리스트는 제가 배웠던 것이거나 자신있게 할 수 있는 것들입니다.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* C
+* Python
+* Java
+* Git/Github
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
