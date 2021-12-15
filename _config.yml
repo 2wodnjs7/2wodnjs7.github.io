@@ -1,6 +1,6 @@
 # Setup
-title:               main
-tagline:             'Blog - 2wodnjs7'
+title:               Blog
+tagline:             '2wodnjs7'
 description:         '<a>국민대학교 소프트웨어학부&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 21학번 이재원</a>.'
 url:                 https://2wodnjs7.github.io
 #baseurl:             'https://2wodnjs7.github.io/'
@@ -10,8 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              Lee Jaewon
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  #url:               https://twitter.com/mdo
+  email:             2wodnjs7@gmail.com
 
 # Gems
 plugins:
